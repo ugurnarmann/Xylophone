@@ -1,4 +1,4 @@
-# Xylophones
+# Xylophone
 
 A simple flutter project.
 
